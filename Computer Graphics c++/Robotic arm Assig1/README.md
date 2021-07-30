@@ -22,12 +22,12 @@ How I treated with issues:
 
 Sample results of my code:
 * The elbow is rotated here with fingers in its direction of rotation but not all the shoulder rotates in this picture .
-*![Capture.PNG](/Capture.PNG)
+*![](Capture.PNG)
 * In the next picture the rotation of each finger is happend when clicked on each button from keyboard to rotate each one separately without rotation of any other element that is can be effected by its rotation and i activates the rotation of elbow .
-*![](/Capture2.PNG)
+*![](Capture2.PNG)
 * In Next photo , it is observed some of lines in my code editition .
-*![](/Capture3.PNG)
-*![](/Capture4.PNG)
+*![](Capture3.PNG)
+*![](Capture4.PNG)
    
 
 
