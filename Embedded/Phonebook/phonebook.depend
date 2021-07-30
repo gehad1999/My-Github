@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1618916667 source:e:\4th year\2nd term\electronics_valeo\c programming\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	"phonebook.h"
+
+1618916667 e:\4th year\2nd term\electronics_valeo\c programming\phonebook\phonebook.h
+
+1618921866 source:e:\4th year\2nd term\electronics_valeo\c programming\phonebook\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string.h>
+	<ctype.h>
+	"phonebook.h"
+
