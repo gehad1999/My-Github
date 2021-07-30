@@ -15,20 +15,20 @@ Details about  implementations:
 Sample results of my code:
 * FULL BODY.
 
-*![](FULL BODY.PNG)
+![](FULL BODY.PNG)
 
 * ELBOW & SHOULDER MOVEMENT.
 
-*![](ELBOW & SHOULDER MOVEMENT.PNG).
+![](ELBOW & SHOULDER MOVEMENT.PNG).
 * LEG ,SHOULDER AND ELBOWS MOVEMENT.
 
-*![](LEG ,SHOULDER AND ELBOWS MOVEMENT.PNG).
+![](LEG ,SHOULDER AND ELBOWS MOVEMENT.PNG).
 *Another kind of rotation.
 
-*![](another kind of rotation.PNG).
+![](another kind of rotation.PNG).
 *ABDUCTION FOR LEG.
 
-*![](ABDUCTION FOR LEG.PNG).
+![](ABDUCTION FOR LEG.PNG).
 * Buttons that are used in application for movement are : (1,2,3,4,5,6,7,8)andfrom(a,b,c,,to,,,,,, r(in the alphabetic order(small and capital case for each alphabet) )) (except d and its capital form didn't used).
    
 
